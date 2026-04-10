@@ -19,16 +19,6 @@ It uses **Groq + LangChain** to simulate intelligent decision-making by evaluati
 * Groq API
 * dotenv
 
- Project Structure
-
-uav-mission-planner/
-│
-├── app.py         
-├── tools.py        
-├── memory.py      
-├── history.json   
-├── requirements.txt
-├── README.md
 
  How to Run the Project
 
